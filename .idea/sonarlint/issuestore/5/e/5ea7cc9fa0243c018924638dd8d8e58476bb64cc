@@ -1,0 +1,22 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Áò®
+E
+java:S3740"/Provide the parametrized type for this generic.(Áò®
+n	java:S135G"YReduce the total number of break and continue statements in this loop to use at most one.(´ò­é
+0
+java:S1220""Move this file to a named package.
+C
+java:S1948"(Make "client" transient or serializable.(ĞÆêÂüÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(²ÿÌÕ
+Q
+java:S6212"/Declare this local variable with "var" instead.(©«å˜üÿÿÿÿ8„ˆ´™š/
+V	java:S125 "<This block of commented-out lines of code should be removed.(™©€¨şÿÿÿÿ
+d
+java:S32526"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+L
+java:S6212D"/Declare this local variable with "var" instead.(æÕ¿¼8ˆ´™š/
+Q
+java:S6212E"/Declare this local variable with "var" instead.(ğÆ¶ƒşÿÿÿÿ8‘ˆ´™š/
+L
+java:S6212F"/Declare this local variable with "var" instead.(şÉş 8’ˆ´™š/

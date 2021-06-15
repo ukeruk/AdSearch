@@ -1,0 +1,41 @@
+
+i
+java:S2095U"NUse try-with-resources or close this "StandardAnalyzer" in a "finally" clause.(³Ë„Õıÿÿÿÿ
+j
+java:S2095“"NUse try-with-resources or close this "StandardAnalyzer" in a "finally" clause.(³Ë„Õıÿÿÿÿ
+F
+java:S1066©"/Merge this if statement with the enclosing one.(Ó‚„
+0
+java:S1220""Move this file to a named package.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³¿šÎıÿÿÿÿ
+<
+java:S3010"!Remove this assignment of "dict".(Ö›õ¡ÿÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ä×œí
+o
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¦Ü‘
+E
+java:S2093T"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S6212x"/Declare this local variable with "var" instead.(õéµ¨ûÿÿÿÿ8„…´™š/
+_
+java:S5361Š"HReplace this call to "replaceAll()" by a call to the "replace()" method.(´õìĞ
+_
+java:S5361Œ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÉŸ¼
+d
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÓúÈ¤ûÿÿÿÿ
+h
+java:S5998‘"LRefactor this repetition that can lead to a stack overflow for large inputs.(¤¾§µúÿÿÿÿ
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÙ¯¶üÿÿÿÿ
+M
+java:S6212¥"/Declare this local variable with "var" instead.(ĞÑîİ8¼…´™š/
+M
+java:S6212«"/Declare this local variable with "var" instead.(¿Õü©8Ã…´™š/
+_
+java:S5361«"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¿Õü©
+_
+java:S5361­"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÂğÚ
+F
+java:S2093‡"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

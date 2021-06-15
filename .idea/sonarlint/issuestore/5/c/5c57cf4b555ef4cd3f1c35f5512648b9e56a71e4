@@ -1,0 +1,25 @@
+
+0
+java:S1220""Move this file to a named package.
+C
+java:S1121J".Extract the assignment out of this expression.(‰ıÊm
+I
+java:S1948".Make "serverSocket" transient or serializable.(“—Ó¿ıÿÿÿÿ
+>
+java:S1948"(Make "socket" transient or serializable.( ¡² 
+>
+java:S1948")Make "clients" transient or serializable.(½Ä…i
+D
+java:S3010$""Remove this assignment of "queue".(í£ÎĞşÿÿÿÿ8ûéô—/
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+L
+java:S6212&"/Declare this local variable with "var" instead.(ÊòÚ 8ıõ³™š/
+M
+java:S1135*"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+R
+java:S24463"0"notify" may not wake up the appropriate thread.(®¸Û×øÿÿÿÿ8†Æºô—/
+M
+java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Q
+java:S6212E"/Declare this local variable with "var" instead.(»‰éÑıÿÿÿÿ8‡ö³™š/

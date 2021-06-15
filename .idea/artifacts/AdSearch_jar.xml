@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AdSearch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdSearch_jar</output-path>
+    <root id="archive" name="AdSearch.jar">
+      <element id="module-output" name="AdSearch" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lucene-analyzers-common-8.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lucene-core-8.6.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

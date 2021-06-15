@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+@
+java:S3010"%Remove this assignment of "toServer".(ªáªùÿÿÿÿÿ
+B
+java:S3010"'Remove this assignment of "fromServer".(ĞÉ¢ˆùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(Ãôş•
+Z
+java:S2147."DCombine this catch with the one at line 44, which has the same body.(ï­£Ä
+A
+java:S11681"+Return an empty collection instead of null.(¥¹ï
